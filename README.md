@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashwiga BR
+- 👋 Hi, I’m Ashwiga BR
 - 👀 I’m interested in Machine Learning and Generative AI  
 - 🌱 I’m currently learning Generative AI  
 - 💞️ I’m looking to collaborate on Machine Learning and AI projects  
